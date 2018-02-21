@@ -1,0 +1,4 @@
+Dit is een tekst bestand
+Git test
+Weet ik veel wat ik nog meer moet doen?
+Dit is een wijziging om te testen?! denk ik...
